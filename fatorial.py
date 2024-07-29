@@ -4,4 +4,4 @@ def fatorial(n):
     else:
         return n * fatorial(n-1)
 
-print(fatorial(4))
+print(fatorial(6))
